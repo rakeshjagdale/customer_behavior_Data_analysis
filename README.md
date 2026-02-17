@@ -74,7 +74,10 @@ Customer Segmentation Visuals
 Revenue Distribution
 
 Shipping & Subscription Insights
-<img width="1162" height="635" alt="image" src="https://github.com/user-attachments/assets/b9bb3b09-17f6-49f2-872b-b0a228cb0a35" />
+
+
+<img width="1153" height="629" alt="Dashboard" src="https://github.com/user-attachments/assets/31d9fcc5-eb17-48df-9cab-66646c7f7101" />
+
 
 📊 Key Business Insights
 
